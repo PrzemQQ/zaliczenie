@@ -1,1 +1,1 @@
-# zaliczenieJS2
+# Zaliczenie na ckp
